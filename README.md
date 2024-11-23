@@ -4,7 +4,6 @@
   
 ### 📫 How to reach me:
   
-- Email: info@thecrownmc.com
 - Twitter: KJChambers
 - Discord: ItsKieranuwu
 
