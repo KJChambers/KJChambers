@@ -21,6 +21,7 @@ Here are some of the tools and technologies I use:
 | Java              |🌕🌕🌕🌑🌑     |
 | JavaScript        |🌕🌕🌕🌑🌑     |
 | Python            |🌕🌕🌕🌑🌑     |
+| C                 |🌕🌕🌑🌑🌑     |
 | SQL               |🌕🌑🌑🌑🌑     |
 
 ---
