@@ -1,15 +1,47 @@
 # 👋 Hi, I’m Kieran
+_A passionate coder, problem-solver, and lifelong **Star Wars** fan, ready to conquer the coding galaxy_ 🚀
 
-### 👀 I’m interested in Minecraft Servers, Star Wars, Royalty
-  
-### 📫 How to reach me:
-  
-- Twitter: KJChambers
-- Discord: ItsKieranuwu
+---
 
-### ⚡ Fun fact:
-  
-- I'm a Parish Councillor on Alveley and Romsley Parish Council in England, UK. I'm active in local politics, meeting with Members of Parliament and Government Figures.
+## 🧑‍💻 **About Me**
+- 💻 Aspiring developer with a love for clean, maintanable code.
+- 📊 Experience in working with data, optimising processes, and creating user-focused solutions.
+- 🌱 Currently sharpening my skills in **C++**.
+- 🎯 My mission: To keep learning, keep building, and solve real-world problems with technology.
+
+---
+
+## ⚙️ **Tech Stack**
+Here are some of the tools and technologies I use:
+
+| **Language/Tool** | **Proficiency** |
+|-------------------|-----------------|
+| C++               |🌕🌕🌕🌕🌑     |
+| HTML/CSS          |🌕🌕🌕🌕🌑     |
+| Java              |🌕🌕🌕🌑🌑     |
+| JavaScript        |🌕🌕🌕🌑🌑     |
+| Python            |🌕🌕🌕🌑🌑     |
+| SQL               |🌕🌑🌑🌑🌑     |
+
+---
+
+## 🔭 **Current Focus**
+I'm currently working on:
+- Expanding my knowlede of **C++ and Programming**
+- Enhancing my problem-solving skills through **algorithm challenges**
+
+---
+
+## 💬 **Let's Connect!**
+I'm always happy to collaborate, discuss ideas, or just chat about tech and **Star Wars**!
+
+- **kieranc0808@gmail.com**
+- **[Twitter](www.x.com/TheKJChambers)**
+- **[LinkedIn](www.linkedin.com/in/thekjchambers)**
+
+## ⚡ **Fun Facts**
+- 🔧 I love solving puzzles - whether it's debugging code or doing quizzes.
+- 🎮 When I'm not coding, I'm probably playing video games.
 
 <!---
 KieranMP/KieranMP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
