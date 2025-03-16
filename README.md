@@ -6,7 +6,7 @@ _A passionate coder, problem-solver, and lifelong **Star Wars** fan, ready to co
 ## 🧑‍💻 **About Me**
 - 💻 Aspiring developer with a love for clean, maintanable code.
 - 📊 Experience in working with data, optimising processes, and creating user-focused solutions.
-- 🌱 Currently sharpening my skills in **C++**.
+- 🌱 Currently sharpening my skills in **NextJS**.
 - 🎯 My mission: To keep learning, keep building, and solve real-world problems with technology.
 
 ---
