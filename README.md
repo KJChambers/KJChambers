@@ -16,10 +16,12 @@ Here are some of the tools and technologies I use:
 
 | **Language/Tool** | **Proficiency** |
 |-------------------|-----------------|
-| C++               |🌕🌕🌕🌕🌑     |
-| JavaScript        |🌕🌕🌕🌕🌑     |
-| C                 |🌕🌕🌕🌕🌑     |
+| JavaScript        |🌕🌕🌕🌕🌕     |
+| React/Next.JS     |🌕🌕🌕🌕🌕     |
+| TailwindCSS       |🌕🌕🌕🌕🌕     |
 | HTML/CSS          |🌕🌕🌕🌕🌑     |
+| C++               |🌕🌕🌕🌕🌑     |
+| C                 |🌕🌕🌕🌑🌑     |
 | Java              |🌕🌕🌕🌑🌑     |
 | Python            |🌕🌕🌕🌑🌑     |
 | SQL               |🌕🌕🌑🌑🌑     |
@@ -29,8 +31,7 @@ Here are some of the tools and technologies I use:
 
 ## 🔭 **Current Focus**
 I'm currently working on:
-- Expanding my knowlede of **C++ and Programming**
-- Enhancing my problem-solving skills through **algorithm challenges**
+- Book Chamber Library App
 
 ---
 
