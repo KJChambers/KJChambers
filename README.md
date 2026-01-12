@@ -39,7 +39,7 @@ Sadly, this project has been put on hold:
 I'm always happy to collaborate, discuss ideas, or just chat about tech and **Star Wars**!
 
 - **kieranc0808@gmail.com**
-- **[LinkedIn](www.linkedin.com/in/thekjchambers)**
+- **[LinkedIn](https://www.linkedin.com/in/thekjchambers)**
 
 ## ⚡ **Fun Facts**
 - 🔧 I love solving puzzles - whether it's debugging code or doing quizzes.
