@@ -16,9 +16,9 @@ Here are some of the tools and technologies I use:
 
 | **Language/Tool** | **Proficiency** |
 |-------------------|-----------------|
+| Java              |🌕🌕🌕🌕🌕     |
 | JavaScript        |🌕🌕🌕🌕🌕     |
 | React/Next.JS     |🌕🌕🌕🌕🌕     |
-| Java              |🌕🌕🌕🌕🌕     |
 | TailwindCSS       |🌕🌕🌕🌕🌕     |
 | HTML/CSS          |🌕🌕🌕🌕🌑     |
 | SQL               |🌕🌕🌕🌕🌑     |
@@ -29,7 +29,10 @@ Here are some of the tools and technologies I use:
 
 ---
 
-## 🔭 **Past Projects**
+## 🔭 **Projects**
+Currently working on:
+- KJControl Java Plugin
+
 Sadly, this project has been put on hold:
 - Book Chamber Library App
 
