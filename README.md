@@ -1,54 +1,47 @@
-# 👋 Hi, I’m Kieran
-_A passionate coder, problem-solver, and lifelong **Star Wars** fan, ready to conquer the coding galaxy_ 🚀
+<h1 align="center">👋 Hi, I’m Kieran</h1>
+<p align="center"><em>Sofware Engineer | Founder of KJ Development | Lifelong Star Wars Fan</em></p>
 
 ---
 
 ## 🧑‍💻 **About Me**
-- 💻 Aspiring developer with a love for clean, maintanable code.
-- 📊 Experience in working with data, optimising processes, and creating user-focused solutions.
-- 🌱 Currently sharpening my skills in **Java**.
-- 🎯 My mission: To keep learning, keep building, and solve real-world problems with technology.
+I am a Software Engineer specialising in back-end Java systems, event-driven architecture, and high-throughput application design. As a BCS member, I am passionate about writing clean, maintainable code and building automated CI/CD pipelines. While I build robust backend frameworks by day, I'm just a guy who loves gaming and the galaxy far, far away by night.
+
+- :briefcase: **Founder:** Managing the full lifecycle of production-grade Java applications at **KJ Development**.
+- :dart: **Focus:** Object-Oriented Design (OOD), concurrency, and creating scalable, user-focused solutions.
+- :seedling: **Currently exploring:** Advanced JVM optimisations and expanding my full-stack capabilities.
 
 ---
 
-## ⚙️ **Tech Stack**
-Here are some of the tools and technologies I use:
+## :rocket: **Projects & Organisation**
 
-| **Language/Tool** | **Proficiency** |
-|-------------------|-----------------|
-| Java              |🌕🌕🌕🌕🌕     |
-| JavaScript        |🌕🌕🌕🌕🌕     |
-| React/Next.JS     |🌕🌕🌕🌕🌕     |
-| TailwindCSS       |🌕🌕🌕🌕🌕     |
-| HTML/CSS          |🌕🌕🌕🌕🌑     |
-| SQL               |🌕🌕🌕🌕🌑     |
-| C++               |🌕🌕🌕🌕🌑     |
-| C                 |🌕🌕🌕🌑🌑     |
-| Python            |🌕🌕🌕🌑🌑     |
-| PHP               |🌕🌕🌑🌑🌑     |
+### :office: [KJ Development](https://github.com/KJ-Development-HQ)
+I am the lead developer and founder of KJ Development, where I build scalable, high-performance server software.
+
+- :zap: **[KJControl](https://github.com/KJ-Development-HQ/KJControl) (Flagship Project):** A modern, modular chat formatting and intelligent moderation framework for Paper servers. Built with a highly optimised *Chain of Responsibility* pipeline, dynamic reflection-free GUIs, and a fully automated GitHub Actions CI/CD workflow.
+- :books: **Book Chamber Library App:** A full-stack library management application *(Currently on hold while I focus on KJControl)*.
 
 ---
 
-## 🔭 **Projects**
-Currently working on:
-- KJControl Java Plugin
+## :gear: **Tech Stack & Skills**
+I believe in choosing the right tool for the job. Here is my current arsenal:
 
-Sadly, this project has been put on hold:
-- Book Chamber Library App
+- **Core Languages:** Java, JavaScript, C++, SQL, HTML/CSS
+- **Familiar With:** C, Python, PHP
+- **Frontend Ecosystem:** React, Next.js, TailwindCSS
+- **Architecture & Backend:** Spigot/Paper API, Event-Driven Architecture, Object-Oriented Design, JDBC
+- **DevOps & Workflows:** Git, GitHub Actions (CI/CD), Gradle, Maven
 
 ---
 
-## 💬 **Let's Connect!**
-I'm always happy to collaborate, discuss ideas, or just chat about tech and **Star Wars**!
+## :zap: **Fun Facts & Hobbies**
+- :milky_way: **Star Wars:** I am a massive fan. Whether it's the films, the lore, or the games, the Force is strong with this one.
+- :wrench: **Puzzle Solver:** I love deconstructing complex problems—whether it's debugging a memory leak, architecting a new software module, or dominating a trivia quiz.
+- :video_game: **Gamer:** When I'm not writing code or pushing commits, you can usually find me playing video games.
 
-- **kieranc0808@gmail.com**
-- **[LinkedIn](https://www.linkedin.com/in/thekjchambers)**
+---
 
-## ⚡ **Fun Facts**
-- 🔧 I love solving puzzles - whether it's debugging code or doing quizzes.
-- 🎮 When I'm not coding, I'm probably playing video games.
+## :speech_balloon: **Let's Connect!**
+Always happy to collaborate on open-source projects, discuss systems architecture, or debate the best lightsaber combat forms!
 
-<!---
-KieranMP/KieranMP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 **Email:** kieranc0808@proton.me
+- :link: **LinkedIn:** [Kieran's LinkedIn](https://www.linkedin.com/in/thekjchambers)
