@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Kieran Chambers FIAP MBCS</h1>
-<p align="center"><em>Sofware Engineer | Founder of KJ Development | Lifelong Star Wars Fan</em></p>
+<p align="center"><em>Sofware Engineer | Founder of KJC Solutions | Lifelong Star Wars Fan</em></p>
 
 ---
 
