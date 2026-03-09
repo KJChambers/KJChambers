@@ -14,7 +14,7 @@ I am a Software Engineer specialising in back-end Java systems, event-driven arc
 
 ## :rocket: **Projects & Organisation**
 
-### :office: [KJ Development](https://github.com/KJC-Solutions)
+### :office: [KJC Solutions](https://github.com/KJC-Solutions)
 I am the lead developer and founder of KJC Solutions, where I build scalable, high-performance server software.
 
 - :zap: **[KJControl](https://github.com/KJC-Solutions/KJControl) (Flagship Project):** A modern, modular chat formatting and intelligent moderation framework for Paper servers. Built with a highly optimised *Chain of Responsibility* pipeline, dynamic reflection-free GUIs, and a fully automated GitHub Actions CI/CD workflow.
