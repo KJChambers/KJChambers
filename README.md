@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Kieran</h1>
+<h1 align="center">👋 Hi, I’m Kieran Chambers FIAP MBCS</h1>
 <p align="center"><em>Sofware Engineer | Founder of KJ Development | Lifelong Star Wars Fan</em></p>
 
 ---
@@ -6,7 +6,7 @@
 ## 🧑‍💻 **About Me**
 I am a Software Engineer specialising in back-end Java systems, event-driven architecture, and high-throughput application design. As a BCS member, I am passionate about writing clean, maintainable code and building automated CI/CD pipelines. While I build robust backend frameworks by day, I'm just a guy who loves gaming and the galaxy far, far away by night.
 
-- :briefcase: **Founder:** Managing the full lifecycle of production-grade Java applications at **KJ Development**.
+- :briefcase: **Founder:** Managing the full lifecycle of production-grade Java applications at **KJC Solutions**.
 - :dart: **Focus:** Object-Oriented Design (OOD), concurrency, and creating scalable, user-focused solutions.
 - :seedling: **Currently exploring:** Advanced JVM optimisations and expanding my full-stack capabilities.
 
@@ -14,11 +14,11 @@ I am a Software Engineer specialising in back-end Java systems, event-driven arc
 
 ## :rocket: **Projects & Organisation**
 
-### :office: [KJ Development](https://github.com/KJ-Development-HQ)
-I am the lead developer and founder of KJ Development, where I build scalable, high-performance server software.
+### :office: [KJ Development](https://github.com/KJC-Solutions)
+I am the lead developer and founder of KJC Solutions, where I build scalable, high-performance server software.
 
-- :zap: **[KJControl](https://github.com/KJ-Development-HQ/KJControl) (Flagship Project):** A modern, modular chat formatting and intelligent moderation framework for Paper servers. Built with a highly optimised *Chain of Responsibility* pipeline, dynamic reflection-free GUIs, and a fully automated GitHub Actions CI/CD workflow.
-- :books: **Book Chamber Library App:** A full-stack library management application *(Currently on hold while I focus on KJControl)*.
+- :zap: **[KJControl](https://github.com/KJC-Solutions/KJControl) (Flagship Project):** A modern, modular chat formatting and intelligent moderation framework for Paper servers. Built with a highly optimised *Chain of Responsibility* pipeline, dynamic reflection-free GUIs, and a fully automated GitHub Actions CI/CD workflow.
+- :books: **Book Chamber Library App:** A full-stack library management application *(Discontinued)*.
 
 ---
 
